@@ -120,6 +120,10 @@ PRODUCT_PACKAGES += \
     LineageSetupWizard \
     Updater
 
+# Fluid Packages
+PRODUCT_PACKAGES += \
+    StitchImage
+
 # Themes
 PRODUCT_PACKAGES += \
     LineageThemesStub \
