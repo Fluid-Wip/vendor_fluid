@@ -1,5 +1,5 @@
 # Allow vendor/fextras to override any property by setting it first
-$(call inherit-product-if-exists, vendor/fextras/fextras.mk)
+$(call inherit-product-if-exists, vendor/fextras/Fextras.mk)
 
 PRODUCT_BRAND ?= Fluid
 
