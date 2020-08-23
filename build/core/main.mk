@@ -1,2 +1,2 @@
-# Include LineageOS versions
-include $(TOPDIR)vendor/lineage/build/core/main_version.mk
+# Include FluidOS versions
+include $(TOPDIR)vendor/fluid/build/core/main_version.mk
